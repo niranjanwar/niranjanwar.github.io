@@ -1,2 +1,2 @@
 # niranjanwar.github.io
-Website for academic resources and personal profile
+Academic Website for Sharing Notes, Research, and Profile
